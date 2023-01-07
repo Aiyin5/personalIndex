@@ -2,46 +2,64 @@ import { navbar } from "vuepress-theme-hope";
 
 export const zhNavbar = navbar([
   "/",
-  { text: "演示", icon: "discover", link: "/zh/demo/" },
+  { text: "简历", icon: "discover", link: "/zh/demo/" },
   {
     text: "博文",
     icon: "edit",
     prefix: "/zh/posts/",
     children: [
       {
-        text: "苹果",
+        text: "算法相关",
         icon: "edit",
-        prefix: "apple/",
+        prefix: "algorithm",
         children: [
-          { text: "苹果1", icon: "edit", link: "1" },
-          { text: "苹果2", icon: "edit", link: "2" },
-          "3",
-          "4",
+          { text: "图论整理", icon: "edit", link: "/1" },
+          { text: "并查集", icon: "edit", link: "/2" },
+          { text: "并查集", icon: "edit", link: "/3" },
+          { text: "并查集", icon: "edit", link: "/4" },
         ],
       },
       {
-        text: "香蕉",
+        text: "个人体验",
         icon: "edit",
-        prefix: "banana/",
+        prefix: "experience/",
         children: [
           {
-            text: "香蕉 1",
+            text: "艾因的菜单",
             icon: "edit",
             link: "1",
           },
           {
-            text: "香蕉 2",
+            text: "忧郁相关",
             icon: "edit",
             link: "2",
           },
-          "3",
-          "4",
+        ],
+      },
+      {
+        text: "项目相关",
+        icon: "edit",
+        prefix: "Project/",
+        children: [
+          {
+            text: "风控决策引擎相关",
+            icon: "edit",
+            link: "1",
+          },
+          {
+            text: "FreeBe相关",
+            icon: "edit",
+            link: "2",
+          },
+          {
+            text: "个人主页及博客",
+            icon: "edit",
+            link: "2",
+          },
         ],
       },
       { text: "樱桃", icon: "edit", link: "cherry" },
       { text: "火龙果", icon: "edit", link: "dragonfruit" },
-      "tomato",
-      "strawberry",
     ],
   },
   { text: "关于", icon: "discover", link: "/about/About" },

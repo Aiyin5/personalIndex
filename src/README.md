@@ -1,6 +1,6 @@
 ---
 home: true
-bgImage: test.png
+bgImage: test2.gif
 layout: BlogHome
 icon: home
 title: 主页
@@ -9,10 +9,10 @@ heroText: false
 tagline:  
 heroFullScreen: true
 projects:
-  - icon: project
-    name: project name
-    desc: project detailed description
-    link: https://your.project.link
+  - icon: /logo.png
+    name: Index
+    desc: 个人主页
+    link: https://www.aiyin.xyz
 
   - icon: link
     name: LinkedIn
