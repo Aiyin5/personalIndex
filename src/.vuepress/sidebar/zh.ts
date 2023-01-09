@@ -4,19 +4,12 @@ export const zhSidebar = sidebar({
   "/": [
     "",
     {
-      text: "如何使用",
-      icon: "creative",
-      prefix: "guide/",
-      link: "guide/",
-      children: "structure",
-    },
-    {
       text: "文章",
       icon: "note",
-      prefix: "posts/",
+      prefix: "zh/posts/",
       children: "structure",
     },
-    "intro",
+    "艾因的简介",
     "slides",
   ],
 });

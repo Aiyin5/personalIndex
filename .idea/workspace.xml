@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ec047b2d-18b2-4e46-97dd-d39e1536e97e" name="Changes" comment="update link and modify index">
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/navbar/zh.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/navbar/zh.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/sidebar/zh.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/sidebar/zh.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zh/posts/algorithm/1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zh/posts/algorithm/2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zh/posts/banana/1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zh/posts/banana/2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zh/posts/banana/3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zh/posts/banana/4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zh/posts/cherry.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zh/posts/dragonfruit.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zh/posts/strawberry.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zh/posts/tomato.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IqY6nYjjNTV9dWK0R67M90my9Q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Project/personalIndex",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "ts.external.directory.path": "D:\\software\\WebStorm 2022.3.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="run dev" type="ShConfigurationType">
+      <option name="SCRIPT_TEXT" value="npm run docs:dev" />
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <option name="EXECUTE_SCRIPT_FILE" value="false" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec047b2d-18b2-4e46-97dd-d39e1536e97e" name="Changes" comment="" />
+      <created>1670910407961</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670910407961</updated>
+      <workItem from="1672814904906" duration="68000" />
+      <workItem from="1672815030737" duration="368000" />
+      <workItem from="1672815429964" duration="1199000" />
+      <workItem from="1672845562449" duration="134000" />
+      <workItem from="1672994483123" duration="14413000" />
+    </task>
+    <task id="LOCAL-00001" summary="update Using vuepress theme-hope">
+      <created>1670912123369</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670912123378</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update first version">
+      <created>1672824200402</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672824200402</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update first version">
+      <created>1672824348206</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672824348206</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update">
+      <created>1672824714752</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672824714752</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update link and modify index">
+      <created>1673079473017</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673079473017</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update Using vuepress theme-hope" />
+    <MESSAGE value="update first version" />
+    <MESSAGE value="update" />
+    <MESSAGE value="update link and modify index" />
+    <option name="LAST_COMMIT_MESSAGE" value="update link and modify index" />
+  </component>
+</project>
