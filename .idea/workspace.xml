@@ -4,19 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec047b2d-18b2-4e46-97dd-d39e1536e97e" name="Changes" comment="update link and modify index">
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/navbar/zh.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/navbar/zh.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/sidebar/zh.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/sidebar/zh.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zh/posts/algorithm/1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zh/posts/algorithm/2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zh/posts/banana/1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zh/posts/banana/2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zh/posts/banana/3.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zh/posts/banana/4.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zh/posts/cherry.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zh/posts/dragonfruit.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zh/posts/strawberry.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zh/posts/tomato.md" beforeDir="false" />
+    <list default="true" id="ec047b2d-18b2-4e46-97dd-d39e1536e97e" name="Changes" comment="update articles">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/deploy-docs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/deploy-docs.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/-README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +70,7 @@
       <workItem from="1672815030737" duration="368000" />
       <workItem from="1672815429964" duration="1199000" />
       <workItem from="1672845562449" duration="134000" />
-      <workItem from="1672994483123" duration="14413000" />
+      <workItem from="1672994483123" duration="15444000" />
     </task>
     <task id="LOCAL-00001" summary="update Using vuepress theme-hope">
       <created>1670912123369</created>
@@ -116,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673079473017</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update articles">
+      <created>1673277444623</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673277444623</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +136,7 @@
     <MESSAGE value="update first version" />
     <MESSAGE value="update" />
     <MESSAGE value="update link and modify index" />
-    <option name="LAST_COMMIT_MESSAGE" value="update link and modify index" />
+    <MESSAGE value="update articles" />
+    <option name="LAST_COMMIT_MESSAGE" value="update articles" />
   </component>
 </project>
